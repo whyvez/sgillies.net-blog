@@ -1,7 +1,19 @@
 Choucroute Garnie
 =================
 
-It's the season.
+For the first food post in my new new blog I'm going to write about why I find
+`Choucroute Garnie <http://en.wikipedia.org/wiki/Choucroute_garnie>`__ so damn
+good and explain how to make it.
+
+My earliest memory of sauerkraut and sausage: a grilled hotdog on a bun
+with ketchup and mustard and sauerkraut.
+
+.. image:: http://farm3.staticflickr.com/2646/3803987491_0fce8bb17f_z_d.jpg
+   :width: 640
+   :height: 444
+   :target: http://www.flickr.com/photos/willbakker/3803987491/
+
+`Will Bakker, Flickr <http://www.flickr.com/photos/13784983@N00/3803987491>`__.
 
 Cabbage is a cultivar of Brassica oleracea.
 
@@ -12,7 +24,7 @@ http://en.wikipedia.org/wiki/Sauerkraut
 
 Lactic fermentation
 
-http://en.wikipedia.org/wiki/Choucroute_garnie
+http://dc-fortheloveof.blogspot.com/2013/08/le-relais-dalsace-tours-france.html
 
 Starting from Bruce Aidell's recipe from the Pork book.
 
