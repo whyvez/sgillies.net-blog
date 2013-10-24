@@ -9,10 +9,11 @@ and thoughtful folks at MapBox is going to be fun.
 
 Is the transition from academic to commerical work going to be hard? I've 
 worked at fast-paced companies before – experience that definitely factored
-into my being hired by the AWMC – and I'm happy to be back. And because I'll
-be continuing to work on open source geospatial software, data, and protocols,
-I feel like my favorite academic communities win from having me on the
-`mersh <http://en.wikipedia.org/wiki/Project_Mersh>`__ side of things.
+into my being hired by the AWMC – and I'm happy to be back in this environment.
+And because I'll be continuing to work on open source geospatial software,
+data, and protocols, I feel like my favorite academic communities win from
+having me on the `mersh <http://en.wikipedia.org/wiki/Project_Mersh>`__ side of
+things.
 
 What am I going to be working on? A bunch of different things, but my near
 future involves pixels. Gazillions of pixels. MapBox uses Shapely and Fiona
@@ -24,10 +25,10 @@ to persuade people that the Fort wouldn't be a terrible place to visit for
 sprints, either. Relatively cheap accomodations and food and plenty of nice
 beers to meet.
 
-Thanks, everyone, for the overwhelming well wishes.
+Thanks, everyone, for the overwhelming congratulations.
 
 
 .. author:: default
 .. categories:: Work
-.. tags:: mapbox, pixels, business, academia, shapely, fiona
+.. tags:: mapbox, pixels, business, academia, shapely, fiona, fort collins
 .. comments::
