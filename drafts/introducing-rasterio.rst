@@ -65,6 +65,6 @@ find rasterio interesting and `follow or fork
 <https://github.com/sgillies/rasterio>`__.
 
 .. author:: default
-.. categories:: none
-.. tags:: none
+.. categories:: Programming
+.. tags:: fiona, rasterio, python, pixels, numpy, cython, gdal
 .. comments::
