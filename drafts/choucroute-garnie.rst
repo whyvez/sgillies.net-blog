@@ -25,6 +25,7 @@ http://en.wikipedia.org/wiki/Sauerkraut
 Lactic fermentation
 
 http://dc-fortheloveof.blogspot.com/2013/08/le-relais-dalsace-tours-france.html
+was not where we ate in Tours.
 
 Starting from Bruce Aidell's recipe from the Pork book.
 
