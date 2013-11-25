@@ -11,7 +11,7 @@ import tinkerer.paths
 project = "And a Laser in My Shoe"
 
 # Change this to the tagline of your blog
-tagline = "Weblog of Sean Gillies"
+tagline = None
 
 # Change this to the description of your blog
 description = "Geography, Python, the Web"
