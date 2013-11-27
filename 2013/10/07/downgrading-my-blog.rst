@@ -1,4 +1,4 @@
-Downgrading My Blog
+Downgrading my blog
 ===================
 
 Welcome to my new blog. It's made with `Tinkerer <http://tinkerer.me>`__.
