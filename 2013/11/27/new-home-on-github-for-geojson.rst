@@ -12,3 +12,5 @@ soon.
 .. categories:: Programming
 .. tags:: geojson, github
 .. comments::
+.. summary:: Tim Schaub has acquired the geojson organization on GitHub
+   from Jason Roebuck

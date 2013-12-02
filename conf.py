@@ -20,7 +20,7 @@ description = "Geography, Python, the Web"
 author = 'Sean Gillies'
 
 # Change this to your copyright string
-copyright = '2013, ' + author
+rights = "This work is licensed under a Creative Commons Attribution 3.0 United States License: http://creativecommons.org/licenses/by/3.0/us/"
 
 # Change this to your blog root URL (required for RSS feed)
 website = 'http://sgillies.net/blog/'
@@ -50,6 +50,8 @@ rss_generate_full_posts = False
 
 # Number of blog posts per page
 posts_per_page = 10
+
+use_atom_feed = True
 
 # **************************************************************
 # Edit lines below to further customize Sphinx build
