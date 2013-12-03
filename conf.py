@@ -41,17 +41,8 @@ html_theme = "flat"
 # Theme-specific options, see docs
 html_theme_options = { }
 
-# Link to RSS service like FeedBurner if any, otherwise feed is
-# linked directly
-rss_service = None
-
-# Generate full posts for RSS feed even when using "read more"
-rss_generate_full_posts = False
-
 # Number of blog posts per page
 posts_per_page = 10
-
-use_atom_feed = True
 
 # **************************************************************
 # Edit lines below to further customize Sphinx build
