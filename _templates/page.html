@@ -1,6 +1,18 @@
 {% extends "!page.html" %}
 
+{%- block quicklinks -%}
+  <li class="quicklink">
+    <div class="rss">
+      <a href="{{ website }}feed.atom" title="Subscribe via Atom">
+      {%- if rss_symbol -%}<span class="webfont">B</span>{%- endif -%}</a>
+    </div>
+  </li>
+{%- endblock -%}
+
 {% block footer %}
-    {{ super() }}
+    <footer class="wrapper">
+    {{ rights|e }}.
+    Powered by coffee, <a href="http://www.tinkerer.me/">Tinkerer</a>, and <a href="http://sphinx.pocoo.org/">Sphinx</a>.
+    </footer>
     {% include "../_static/ga.js" %}
 {% endblock %}
