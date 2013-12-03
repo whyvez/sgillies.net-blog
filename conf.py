@@ -58,7 +58,7 @@ use_atom_feed = True
 # **************************************************************
 
 # Add other Sphinx extensions here
-extensions = ['tinkerer.ext.blog']
+extensions = ['tinkerer.ext.blog', 'rutherford']
 
 # Add other template paths here
 templates_path = ['_templates']
