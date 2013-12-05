@@ -131,7 +131,7 @@ representation feels not surprising. If you already think GeoJSON sucks, JSON
 patch for GeoJSON is going to look exta sucky because of the lengths of paths
 to individual coordinate items. I don't think there's any way around that,
 although GeoJSON's recursive coordinates member helps a little – consider that
-the path t the first 'x' coordinate of the exterior ring of the first part of
+the path to the first 'x' coordinate of the exterior ring of the first part of
 a multi-polygon is "just" '/features/42/geometry/coordinates/0/0/0/0'.
 
 I'm not sure how RFC 6902 patches will play out at scale, but I think it's
