@@ -128,9 +128,14 @@ There's a potential for RFC 6902 style GeoJSON diffs to become very large if
 highly detailed lines and polygons are being modified (via simplication or
 reprojection). But GeoJSON itself is quite verbose already and a verbose patch
 representation feels not surprising. If you already think GeoJSON sucks, JSON
-patch for GeoJSON is going to look exta sucky. I don't think there's any way
-around that. Just having started to look into this, I'm not sure how it will
-play out at scale, but I think it's worth considering.
+patch for GeoJSON is going to look exta sucky because of the lengths of paths
+to individual coordinate items. I don't think there's any way around that,
+although GeoJSON's recursive coordinates member helps a little – consider that
+the path t the first 'x' coordinate of the exterior ring of the first part of
+a multi-polygon is "just" '/features/42/geometry/coordinates/0/0/0/0'.
+
+I'm not sure how RFC 6902 patches will play out at scale, but I think it's
+worth further consideration.
 
 .. author:: default
 .. categories:: Programming
