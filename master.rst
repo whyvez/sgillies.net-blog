@@ -4,6 +4,7 @@ Sitemap
 .. toctree::
    :maxdepth: 1
 
+   2013/12/05/first-blog-post-at-mapbox
    2013/12/04/json-diff-and-patch-for-geojson
    2013/12/03/atom-extension-for-tinkerer
    2013/12/02/geojson-website-refreshed
