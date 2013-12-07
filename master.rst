@@ -4,6 +4,7 @@ Sitemap
 .. toctree::
    :maxdepth: 1
 
+   2013/12/06/ylt-covers-nrbq-s-ridin-in-my-car
    2013/12/06/my-first-photo-in-wikimedia-commons
    2013/12/06/some-consequences-of-geojson-features-as-arrays
    2013/12/05/first-blog-post-at-mapbox
