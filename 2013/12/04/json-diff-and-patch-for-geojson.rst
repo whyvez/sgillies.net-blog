@@ -139,5 +139,5 @@ worth further consideration.
 
 .. author:: default
 .. categories:: Programming
-.. tags:: json, patch, diff, github, http, geojson, python, 
+.. tags:: json, patch, diff, github, http, geojson, python
 .. comments::
