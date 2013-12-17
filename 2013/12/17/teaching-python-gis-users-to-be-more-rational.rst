@@ -52,7 +52,7 @@ or dict item? Or if you've bound two names to the same object do you have to
 Any closing of external resources is a side effect, and side effects in
 software are almost always less than deterministic in nature. Teaching users to
 rely on side effects is, in effect, teaching them to program irrationally.
-Here's a user (not a GIS user, either) that's been particularly harmed, IMO:
+Here's a user (not a GIS user, either) who has been particularly harmed, IMO:
 http://stackoverflow.com/a/12626643/159235.
 
 The reason that ``del`` works at all when it does is that the object to which
