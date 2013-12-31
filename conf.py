@@ -44,6 +44,8 @@ html_theme_options = { }
 # Number of blog posts per page
 posts_per_page = 10
 
+slug_word_separator = '-'
+
 # **************************************************************
 # Edit lines below to further customize Sphinx build
 # **************************************************************

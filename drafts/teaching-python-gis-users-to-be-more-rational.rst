@@ -95,5 +95,5 @@ rational Python GIS programmers.
 
 .. author:: default
 .. categories:: Programming
-.. tags:: python, zen, pedagogy
+.. tags:: python, zen, pedagogy, arcpy, gdal, ogr, stack exchange
 .. comments::

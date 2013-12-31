@@ -65,5 +65,5 @@ You can see that all four corners of the test image are masked.
 
 .. author:: default
 .. categories:: Programming
-.. tags:: rasterio, python, gdal, numpy, pixels, cython
+.. tags:: rasterio, python, gdal, numpy, pixels, cython, masks
 .. comments::

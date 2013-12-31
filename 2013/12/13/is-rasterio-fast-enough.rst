@@ -52,10 +52,10 @@ Here are the results on my 1.7 GHz Intel Core i7 MacBook Air:
 
     $ python benchmarks/ndarray.py
     GDAL:
-    0.002212 usec
+    2.356141 ms
     
     Rasterio:
-    0.002637 usec
+    2.655728 ms
 
 I'm pleased that Rasterio is only about 15% slower for this benchmark. And 
 the difference between the two will diminish as files grow larger. Rasterio

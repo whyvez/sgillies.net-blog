@@ -4,6 +4,12 @@ Sitemap
 .. toctree::
    :maxdepth: 1
 
+   2013/12/31/shapely-1-2-19-and-1-3-0
+   2013/12/25/gruss-vom-krampus
+   2013/12/21/rasterio-windows-and-masks
+   2013/12/17/teaching-python-gis-users-to-be-more-rational
+   2013/12/13/is-rasterio-fast-enough
+   2013/12/13/drafts_is_rasterio_fast_enough_rs
    2013/12/06/ylt-covers-nrbq-s-ridin-in-my-car
    2013/12/06/my-first-photo-in-wikimedia-commons
    2013/12/06/some-consequences-of-geojson-features-as-arrays
