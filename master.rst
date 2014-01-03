@@ -4,6 +4,7 @@ Sitemap
 .. toctree::
    :maxdepth: 1
 
+   2014/01/03/point-vs-multipoint
    2014/01/02/maybe-the-shapefile-was-right-after-all
    2013/12/31/shapely-1-2-19-and-1-3-0
    2013/12/25/gruss-vom-krampus
