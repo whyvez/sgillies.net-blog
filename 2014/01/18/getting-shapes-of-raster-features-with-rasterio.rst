@@ -6,6 +6,13 @@ features in an image. The region labeling algorithm is provided by libgdal's
 GDALPolygonize() and I'm using GDAL and OGR in-memory raster and vector
 datastores to avoid disk I/O. Look, Ma, no temporary files.
 
+In the interpreter session shown below, I made a 12 x 12 image with three different
+features: the background with value 1, a 4 x 4 square in the upper left corner with
+value 2, and a 2 x 2 square with value 5 on the left edge. Then I copied an
+affine transformation matrix from the rasterio test suite and passed it and the
+image to rasterio.features.shapes(). The result: the polygon boundaries of those
+three features in "world", not image, coordinates.
+
 .. code-block:: pycon
 
     >>> import pprint

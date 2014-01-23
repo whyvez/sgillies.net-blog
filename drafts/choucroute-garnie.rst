@@ -1,19 +1,27 @@
 Choucroute Garnie
 =================
 
-For the first food post in my new new blog I'm going to write about why I find
-`Choucroute Garnie <http://en.wikipedia.org/wiki/Choucroute_garnie>`__ so damn
-good and explain how to make it.
+.. For the first food post in my new new blog I'm going to write about why I find
+.. `Choucroute Garnie <http://en.wikipedia.org/wiki/Choucroute_garnie>`__ so damn
+.. good and explain how to make it.
 
 My earliest memory of sauerkraut and sausage: a grilled hotdog on a bun
-with ketchup and mustard and sauerkraut.
+with ketchup and mustard and sauerkraut. Something like this.
 
-.. image:: http://farm3.staticflickr.com/2646/3803987491_0fce8bb17f_z_d.jpg
+.. image:: http://farm6.staticflickr.com/5136/5585183093_7eeb6ef29b_z_d.jpg
    :width: 640
-   :height: 444
-   :target: http://www.flickr.com/photos/willbakker/3803987491/
+   :height: 428
+   :target: http://www.flickr.com/photos/rschreff/5585183093/
 
-`Will Bakker, Flickr <http://www.flickr.com/photos/13784983@N00/3803987491>`__.
+
+`Welding with mustard by Peter Schreffler <http://www.flickr.com/photos/rschreff/5585183093/>`__.
+
+.. image:: http://farm6.staticflickr.com/5204/5328047526_0474f9d286_z_d.jpg
+   :width: 640
+   :height: 480
+   :target: http://www.flickr.com/photos/pjhaas/5328047526/
+
+`Choucroute garnie by Peter Jan Haas, <http://www.flickr.com/photos/pjhaas/5328047526/>`__.
 
 Cabbage is a cultivar of Brassica oleracea.
 

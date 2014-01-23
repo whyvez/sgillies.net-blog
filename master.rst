@@ -4,6 +4,9 @@ Sitemap
 .. toctree::
    :maxdepth: 1
 
+   2014/01/22/json-ld-and-geojson
+   2014/01/22/rethinking-driver-management-in-fiona-and-rasterio
+   2014/01/18/getting-shapes-of-raster-features-with-rasterio
    2014/01/03/point-vs-multipoint
    2014/01/02/maybe-the-shapefile-was-right-after-all
    2013/12/31/shapely-1-2-19-and-1-3-0
