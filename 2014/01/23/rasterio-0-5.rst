@@ -1,10 +1,16 @@
 Rasterio 0.5
 ============
 
+.. code-block:: console
+
+    $ pip install 'rasterio>=0.5'
+
+Which is to say, share and enjoy.
+
 Here's a script that shows off everything new in rasterio 0.5: `GDAL driver
 environments
 <http://sgillies.net/blog/2014/01/22/rethinking-driver-management-in-fiona-and-rasterio.html>`__,
-raster feature sieving, and generation of raster feature shapes.
+raster feature sieving, and a generator of raster feature shapes.
 
 .. code-block:: python
 
