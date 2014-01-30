@@ -4,6 +4,7 @@ Sitemap
 .. toctree::
    :maxdepth: 1
 
+   2014/01/29/new-home-for-rasterio
    2014/01/23/rasterio-0-5
    2014/01/22/json-ld-and-geojson
    2014/01/22/rethinking-driver-management-in-fiona-and-rasterio
