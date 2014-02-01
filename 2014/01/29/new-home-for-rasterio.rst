@@ -50,7 +50,8 @@ make extra sure that my derived work (the GeoJSON file at
 https://gist.github.com/sgillies/8655640#file-python-powered-json) was legit,
 and received a very clear and friendly response from David Mertz in the
 affirmative. I've been a reader of his articles for years and it was a pleasure
-to correspond with him at last.
+to correspond with him at last. Python isn't just a great language, it's great
+people.
 
 .. author:: default
 .. categories:: Work
