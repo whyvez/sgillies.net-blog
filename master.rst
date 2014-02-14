@@ -4,6 +4,9 @@ Sitemap
 .. toctree::
    :maxdepth: 1
 
+   2014/02/14/rasterio-cookbook-recipe-number-one
+   2014/02/10/rasterio-0-6
+   2014/02/03/fiona-1-1-1-rasterio-0-5-1
    2014/01/31/interactive-interpreters-for-fiona-and-rasterio
    2014/01/29/new-home-for-rasterio
    2014/01/23/rasterio-0-5

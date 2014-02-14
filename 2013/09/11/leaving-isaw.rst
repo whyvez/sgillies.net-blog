@@ -1,3 +1,4 @@
+
 Leaving ISAW
 ============
 
@@ -40,6 +41,6 @@ I've got 2 more days of documentation sprinting ahead of me and
 then I'll be `available for new work <http://sgillies.net/cv.html>`__.
 
 .. author:: default
-.. categories:: Work
-.. tags:: pleiades, isaw, nyu, classics
+.. categories::
+.. tags:: life, pleiades
 .. comments::
