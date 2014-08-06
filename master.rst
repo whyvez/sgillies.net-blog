@@ -4,6 +4,12 @@ Sitemap
 .. toctree::
    :maxdepth: 1
 
+   2014/08/06/pruning-crs-from-geojson
+   2014/07/13/scipy-conference
+   2014/07/02/steady-as-she-goes
+   2014/05/22/the-geojson-media-type
+   2014/03/27/the-geojson-ld-project
+   2014/02/25/warping-images-with-rasterio
    2014/02/14/rasterio-cookbook-recipe-number-one
    2014/02/10/rasterio-0-6
    2014/02/03/fiona-1-1-1-rasterio-0-5-1
