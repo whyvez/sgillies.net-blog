@@ -34,5 +34,5 @@ think so.
 
 .. author:: default
 .. categories:: Web
-.. tags:: geojson, ietf, standards, web
+.. tags:: geojson, ietf, standards, web, crs, epsg, json
 .. comments::
