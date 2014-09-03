@@ -4,6 +4,7 @@ Sitemap
 .. toctree::
    :maxdepth: 1
 
+   2014/09/02/fiona-and-rasterio-releases
    2014/08/06/pruning-crs-from-geojson
    2014/07/13/scipy-conference
    2014/07/02/steady-as-she-goes
