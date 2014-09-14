@@ -32,7 +32,11 @@ it" – and was present for a unfortunate reference to hacking private photos at
 lunch time. I hope that was all of it.
 
 If you attended FOSS4G or watched the live feed I encourage you to write about your
-experience and impressions. Come on, do it.
+experience and impressions. Come on, do it. It doesn't have to be long or
+comprehensive. Here are a few blog posts I've seen already:
+
+- `Foss4g 2014: The good, the bad and the beers
+  <http://www.atlefren.net/post/2014/09/foss4g-2014-the-good-the-bad-and-the-beers/>`_   by Atle Frenvik Sveen
 
 .. author:: default
 .. categories:: Work
