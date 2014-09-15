@@ -9,7 +9,7 @@ acquaintances. I even got to speak a bit of French.
 
 My talk was one of the first in the general sessions. I had fun presenting and
 am told that I did a good job. My slides are published at
-http://sgillies.github.io/foss4g-2014-fiona-rasterio/#/ and you can fork them
+http://sgillies.github.io/foss4g-2014-fiona-rasterio/ and you can fork them
 from `GitHub <https://github.com/sgillies/foss4g-2014-fiona-rasterio>`__.
 According to the information at the `FOSS4G Live Stream page
 <https://2014.foss4g.org/live/>`__ all the talks will be available online soon.
