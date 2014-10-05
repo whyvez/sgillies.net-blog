@@ -2,7 +2,8 @@ Python at FOSS4G 2014
 =====================
 
 There were plenty of other Python talks at FOSS4G and I plan to watch them when
-the videos are online. I haven't been aware of `ogrtools
+the videos are online (**update**: talks are appearing now at
+http://vimeo.com/foss4g). I haven't been aware of `ogrtools
 <https://github.com/sourcepole/ogrtools>`__, which is unlucky because there's
 plenty of functional overlap between it and Fiona. The designs seem rather
 different because Fiona doesn't emulate XML tool chains (GDAL's VRTs are not
@@ -15,9 +16,9 @@ I was very fortunate to go right after Mike Bostock's keynote. It got people
 thinking about tools and design, and that's exactly the conversation that I'm
 trying to engage developers in with Fiona and Rasterio, if with less insight
 and perspective than Mike. I reminded attendees that the best features of our
-programming are sometimes disjoint and showed this diagram (in which C is
-yellow, Javascript is magenta, and Python is blue. By "GC" I mean garbage
-collection). 
+day-to-day programming languages are sometimes disjoint and showed this diagram
+(in which C is yellow, Javascript is magenta, and Python is blue. By "GC"
+I mean garbage collection and by "{};" I mean extraneous syntax).
 
 .. image:: http://sgillies.github.io/foss4g-2014-fiona-rasterio/img/py-js-c.png
    :width: 600
@@ -44,6 +45,14 @@ giving two talks and some three. If any woman or first-timer didn't get
 a chance to speak while some dude got three (and the multiple talkers were all
 men and long time attendees as far as I can tell) – that's a bug in the talk
 selection that needs to be fixed before the next edition.
+
+Lastly, I think the views of Mount Hood you get when flying in and out of PDX to
+destinations south and east are worth the airfare all by themselves.
+
+.. image:: https://farm6.staticflickr.com/5587/15249959145_91e47b3444_c_d.jpg
+   :target: https://www.flickr.com/photos/by-sgillies/15249959145/
+   :width: 600
+   :height: 800
 
 .. author:: default
 .. categories:: Programming

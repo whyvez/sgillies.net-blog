@@ -4,6 +4,7 @@ Sitemap
 .. toctree::
    :maxdepth: 1
 
+   2014/10/05/unix-style-spatial-etl-with-fio-cat-collect-and-load
    2014/09/15/python-at-foss4g-2014
    2014/09/14/back-from-foss4g
    2014/09/02/fiona-and-rasterio-releases
