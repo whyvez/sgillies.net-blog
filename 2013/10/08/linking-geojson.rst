@@ -23,12 +23,11 @@ jQuery.getJSON().
 .. sourcecode:: javascript
 
   var map = L.map('map');
+  var geojson = L.geoJson().addTo(map);
   
   $.getJSON(geojson_uri, function (data) {
-    var geojson = L.geoJson(data);
+    geojson.addData(data);
   });
-  
-  map.addLayer(geojson);
 
 The feature data is not written into a script in the page as
 they are in http://leafletjs.com/examples/quick-start-example.html. Yes,
